@@ -3,3 +3,4 @@ lexical-diversity
 python-Levenshtein
 sacrebleu
 sacremoses
+setuptools
